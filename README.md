@@ -1,4 +1,4 @@
-Hello! Welcome to the write-up `pwn.college - Program Misuse` challenges. 
+Hello! Welcome to the write-up of `pwn.college - Program Misuse` challenges. 
 
 In this write-up, I try not only to write the solutions but also write the meaning of the each
 command in a short form, other approaches to solve, some insights of the problem. You will find them later in the challenges mostly as the first few challenges is super easy. 
